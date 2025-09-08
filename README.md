@@ -1,10 +1,5 @@
 # 🌟 Arij Zahra Soula – Portfolio
 
-Welcome to my personal academic portfolio hosted on **GitHub Pages**:  
-👉 [https://arijsoula.github.io](https://arijsoula.github.io)  
-
-This website highlights my background, research, and professional experiences in **Artificial Intelligence, Data Science, and Software Engineering**. It is designed for **PhD and Master’s applications**, showcasing my academic work, technical expertise, and research contributions.  
-
 📄 [Download my CV](./ZahraSoula_Resume.pdf)  
 
 ---
