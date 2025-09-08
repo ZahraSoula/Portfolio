@@ -38,10 +38,27 @@ I am passionate about contributing to **AI research** across multiple domains, p
 
 ### **AI Researcher Intern – Polytechnique Montréal, Canada**  
 **May 2024 – Dec 2024**  
-- Conducted research on **code clone detection** using advanced **NLP techniques**, focusing on **Type-4 (semantic) clones**.  
-- Implemented and optimized **sentence transformer models** to generate embeddings for code, improving accuracy in large datasets.  
-- Authored a **literature review** on state-of-the-art clone detection methods.  
-- **Technologies:** Python, PyTorch, Hugging Face Sentence Transformers, Qdrant  
+Research-focused project on detecting semantic code clones (Type-4) using NLP, embeddings, and vector databases.
+
+Contributions:
+
+-Data Preparation & Cleaning: Processed large-scale datasets (POJ104, BigCloneBench, Google Code Jam, CodeNet) to extract and normalize code functions.
+
+-Pipeline Development: Built a data ingestion pipeline capable of handling millions of code samples with batch processing for scalability.
+
+-Embeddings Generation: Leveraged Sentence Transformers to generate high-dimensional vector representations of source code.
+
+-Vector Database Integration: Designed and implemented similarity search with Qdrant, including collection setup, batching, and query optimization.
+
+-Evaluation & Experiments: Compared the performance of vector database approaches vs. deep learning models (accuracy, recall, scalability).
+
+Performance Optimization: Addressed challenges like vector dimension mismatches, memory bottlenecks, and computational efficiency.
+
+-Semantic Clone Detection: Focused on cross-language clone detection, going beyond syntactic similarity to capture deeper semantic relationships.
+
+-Research Contribution: Defined research questions around effectiveness, performance, and scalability of embedding-based approaches, providing insights for future academic publications.
+
+💡 Impact: Showcased how vector database–based methods can serve as a lightweight, scalable alternative to neural network approaches for clone detection, paving the way for integration into developer tools and IDEs  
 
 ---
 
@@ -56,10 +73,23 @@ I am passionate about contributing to **AI research** across multiple domains, p
 
 ### **Data Engineer Intern – ESPRIT School of Engineering, Tunisia**  
 **June 2023 – Sep 2023**  
-- Built **ETL pipelines** and workflows for student performance analytics.  
-- Designed and implemented a **PostgreSQL database** for structured queries and reporting.  
-- Developed **visualizations and dashboards** using Matplotlib and Power BI.  
-- **Technologies:** Python (Pandas, NumPy), PostgreSQL, Power BI  
+
+Worked on building a small-scale data pipeline to help the university analyze student performance and attendance trends. Focused on collecting, cleaning, and structuring data from existing sources for reporting purposes.
+
+Key Contributions:
+
+-Data Extraction: Collected student grades, attendance, and course info from Excel files and Moodle exports.
+
+-Data Cleaning & Transformation: Used Python (Pandas) to handle missing values, normalize formats, and merge datasets.
+
+-Database Setup: Created a simple PostgreSQL database to store processed data for easy querying.
+
+-Basic Analytics: Generated summary statistics (average grades, attendance rates) to identify trends and patterns.
+
+-Reporting: Built basic visualizations with Matplotlib / Power BI to support faculty understanding of student performance.
+
+Impact:
+Helped the faculty quickly identify students at risk, track course performance trends, and make informed decisions, while gaining hands-on experience in data engineering fundamentals and ETL workflows
 
 ---
 
