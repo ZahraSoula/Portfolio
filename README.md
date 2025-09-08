@@ -1,4 +1,6 @@
 # 🌟 Arij Zahra Soula – Portfolio
+<img src="./profile.jpg" alt="Arij Zahra Soula" width="180" style="border-radius:50%; margin-bottom:15px;" />
+
 
 📄 [Download my CV](./ZahraSoula_Resume.pdf)  
 
