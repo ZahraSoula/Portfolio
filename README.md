@@ -59,10 +59,25 @@ Performance Optimization: Addressed challenges like vector dimension mismatches,
 
 ### **AI Engineer Intern – IVA AI Startup, Tallinn, Estonia**  
 **July 2023 – Sep 2023**  
-- Implemented **text-to-speech (TTS)** and **speech-to-text (STT)** models.  
-- Trained and fine-tuned models for **natural-sounding speech** and **accurate transcription**.  
-- Enhanced call transcript conversion accuracy and data accessibility.  
-- **Technologies:** Python, NLP, Transformers, BERT, NLTK, Microsoft Azure  
+Industry-focused internship applying speech technologies to enhance customer experience through text-to-speech (TTS) and speech-to-text (STT) systems.
+
+Contributions:
+
+Model Development: Implemented state-of-the-art TTS and STT models to improve speech synthesis and transcription.
+
+Fine-Tuning & Training: Optimized TTS models for natural-sounding speech output and STT models for high transcription accuracy.
+
+Pipeline Integration: Designed an end-to-end pipeline for call transcript conversion, integrating data preprocessing, model inference, and storage.
+
+Cloud Deployment: Leveraged Microsoft Azure services for scalable model deployment and monitoring.
+
+Performance Optimization: Improved conversion speed and accuracy for real-time call handling scenarios.
+
+Data Accessibility: Enabled structured data extraction from audio calls, making insights available for downstream analytics.
+
+Research Application: Applied transformer-based NLP models (BERT, Transformers) and libraries like NLTK to enhance model robustness.
+
+💡 Impact: Increased accuracy and efficiency of call transcription, improving customer experience and enabling organizations to leverage voice data more effectively for analysis and decision-making.
 
 ---
 
@@ -83,7 +98,7 @@ Key Contributions:
 
 -Reporting: Built basic visualizations with Matplotlib / Power BI to support faculty understanding of student performance.
 
-Impact:
+💡Impact:
 Helped the faculty quickly identify students at risk, track course performance trends, and make informed decisions, while gaining hands-on experience in data engineering fundamentals and ETL workflows
 
 ---
