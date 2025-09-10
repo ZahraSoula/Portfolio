@@ -2,7 +2,7 @@
 <img src="./arij.jpg" alt="Arij Zahra Soula" width="180" style="border-radius:50%; margin-bottom:15px;" />
 
 
-📄 [Download my CV](./ZahraSoula_Resume.pdf)  
+📄 [Download my CV](Portfolio/ZahraSoula_Resume.pdf)  
 
 ---
 
@@ -55,7 +55,9 @@ Performance Optimization: Addressed challenges like vector dimension mismatches,
 
 -Research Contribution: Defined research questions around effectiveness, performance, and scalability of embedding-based approaches, providing insights for future academic publications.
 
-💡 Impact: Showcased how vector database–based methods can serve as a lightweight, scalable alternative to neural network approaches for clone detection, paving the way for integration into developer tools and IDEs  
+💡 Impact: Showcased how vector database–based methods can serve as a lightweight, scalable alternative to neural network approaches for clone detection, paving the way for integration into developer tools and IDEs
+  - [Engineering graduation thesis](Portfolio/CCD_Zahra_Report.pdf)  
+
 
 ---
 
@@ -107,21 +109,21 @@ Helped the faculty quickly identify students at risk, track course performance t
 
 ## 🚀 Projects
 
-- **🔎 Risk Management Conceptual Graph-Based Recommendation System** | **Nov 2023**  
+- **🔎 Risk Management Conceptual Graph-Based Recommendation System**  
   - Built a system to extract insights from textual data and support risk management.  
   - Applied **NLP + Graph Neural Networks (GNNs)** for recommendations.  
   - [GitHub Repo](https://github.com/Arijaa/Risk-management-conceptual-graph-project.git)  
 
-- **⚙️ Student Job Market DevOps Project** | **Sep 2023 – Nov 2023**  
+- **⚙️ Student Job Market DevOps Project**  
   - Set up **Jenkins pipelines**, automated testing, and monitoring with **Grafana + Prometheus**.  
   - Used DockerHub and SonarQube for CI/CD and code quality assurance.  
 
-- **🤖 MindMatch: Career Center Platform (NLP Project)** | **Jan 2023 – May 2023**  
+- **🤖 MindMatch: Career Center Platform (NLP Project)**  
   - Built a **job recommendation system** and chatbot using LinkedIn/Job data.  
   - Tools: Python, PyTorch, Scikit-learn, Power BI  
   - [GitHub Repo](https://github.com/Arijaa/MindMatch.git)  
 
-- **🧬 Chronic Kidney Disease Classification (ML Project)** | **Nov 2022**  
+- **🧬 Chronic Kidney Disease Classification (ML Project)**  
   - Applied KNN, SVM, Random Forest, and XGBoost to improve prediction accuracy.  
   - [GitHub Repo](https://github.com/Arijaa/Chronic-Kidney-disease-clustring-and-prediction.git)  
 
@@ -165,10 +167,10 @@ Helped the faculty quickly identify students at risk, track course performance t
 
 ## 📫 Contact
 - 📧 Email: [arijzahra.soula@gmail.com](mailto:arijzahra.soula@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/arijzahrasoula](https://linkedin.com/in/arijzahrasoula)  
+- 🔗 LinkedIn: [linkedin.com/in/arijzahrasoula](https://www.linkedin.com/in/arij-zahra-soula-baa1b5216/)  
 - 💻 GitHub: [github.com/Arijaa](https://github.com/Arijaa)  
 - 🌐 Portfolio: [arijsoula.github.io](https://arijsoula.github.io)  
-- 📄 [Download my CV](./ZahraSoula_Resume.pdf)  
+- 📄 [Download my CV](Portfolio/ZahraSoula_Resume.pdf)  
 
 ---
   
