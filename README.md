@@ -5,7 +5,7 @@
 
 ## 👩‍🎓 About Me
 I am **Arij Zahra Soula**, a Computer Science Engineering graduate specialized in **Data Science**.  
-I have experience in **NLP, speech technologies, recommendation systems, healthcare AI, and applied ML/DL**. My research focuses on **semantic code clone detection**, **vector databases**, and **scalable AI pipelines**.  
+I have experience in **NLP, speech technologies, recommendation systems, healthcare AI, and applied ML/DL**. My recent research focused on **semantic code clone detection**, **vector databases**, and **scalable AI pipelines**.  
 
 I am passionate about contributing to **AI research** across multiple domains, particularly at the intersection of **software engineering, natural language processing, and scalable machine learning systems**.  
 
