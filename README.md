@@ -53,7 +53,7 @@ Performance Optimization: Addressed challenges like vector dimension mismatches,
 -Research Contribution: Defined research questions around effectiveness, performance, and scalability of embedding-based approaches, providing insights for future academic publications.
 
 💡 Impact: Showcased how vector database–based methods can serve as a lightweight, scalable alternative to neural network approaches for clone detection, paving the way for integration into developer tools and IDEs
-  - [Engineering graduation thesis](Portfolio/CCD_Zahra_Report.pdf)  
+  - [Engineering graduation thesis](https://github.com/ZahraSoula/Portfolio/blob/main/CCD_Zahra_Report.pdf)  
 
 
 ---
